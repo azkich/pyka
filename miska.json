@@ -1,29 +1,18 @@
 [
 {
-    "nickname": "test",
-    "age": "25",
-    "Gender": "Мужчина",
-    "Country": "Россия",
-    "team": "Миска Студио",
-    "role": "Редстоунер",
-    "About": "-"
-},
-{
-    "name": "test2",
-    "age": "21",
-    "Gender": "Мужчина",
+    "nickname": "test2",
+    "age": "",
+    "Gender": "",
     "Country": "",
-    "team": "Миска Студио",
-    "role": "Сборщик",
-    "About": "t"
+    "role": "Редстоунер",
+    "About": ""
 },
 {
     "name": "test3",
-    "age": "-",
-    "Gender": "-",
+    "age": "",
+    "Gender": "",
     "Country": "",
-    "team": "Миска Студио",
-    "role": "Редстоунер",
-    "About": "b"
+    "role": "Сборщик",
+    "About": ""
 }
 ]

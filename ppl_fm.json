@@ -1,29 +1,18 @@
 [
-{
-    "nickname": "test",
-    "age": "25",
-    "Gender": "Мужчина",
-    "Country": "Россия",
-    "team": "PPL FM",
-    "role": "Редстоунер",
-    "About": "Создатель мода РУКА и PPL Mini, также создал улучшенный мапарт"
-},
-{
-    "name": "test",
-    "age": "21",
-    "Gender": "Мужчина",
+  {
+    "nickname": "test6",
+    "age": "",
+    "Gender": "",
     "Country": "",
-    "team": "PPL FM",
+    "role": "Редстоунер",
+    "About": ""
+  },
+  {
+    "name": "test7",
+    "age": "",
+    "Gender": "",
+    "Country": "",
     "role": "Сборщик",
-    "About": "Главный по редстоуну в Кошкином Доме"
-},
-{
-    "name": "test",
-    "age": "-",
-    "Gender": "-",
-    "Country": "",
-    "team": "PPL FM",
-    "role": "Редстоунер",
-    "About": "Любитель двойных воронок"
-}
+    "About": ""
+  }
 ]
