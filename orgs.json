@@ -4,26 +4,26 @@
     {
       "id": "osp",
       "file": "osp.json",
-      "name": "Орден Стальных Птиц",
-      "color": "#9d00ff"
+      "name": "Стальные птицы",
+      "color": "#726cae"
     },
     {
       "id": "ppl_fm",
       "file": "ppl_fm.json",
       "name": "PPL FM",
-      "color": "#0e37dd"
+      "color": "#228b22"
     },
     {
       "id": "zoc",
       "file": "zoc.json",
       "name": "ZoC",
-      "color": "#e279d9"
+      "color": "#9b59b6"
     },
     {
       "id": "miska",
       "file": "miska.json",
-      "name": "Miska Studio",
-      "color": "#cc0000"
+      "name": "MISKA Studio",
+      "color": "#8b0000"
     },
     {
       "id": "kd",
