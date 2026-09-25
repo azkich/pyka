@@ -1,18 +1,32 @@
 [
-{
+  {
     "nickname": "test8",
     "age": "",
     "Gender": "",
     "Country": "",
     "role": "Редстоунер",
     "About": ""
-},
-{
+  },
+  {
     "name": "test9",
     "age": "",
     "Gender": "",
     "Country": "",
     "role": "Сборщик",
     "About": ""
-}
+  },
+  {
+    "name": "Mr_Cheezer",
+    "age": "17",
+    "Gender": "Пацанчик",
+    "role": "Глава",
+    "About": "Балбес"
+  },
+  {
+    "name": "catPush",
+    "age": "",
+    "Gender": "He\\Him",
+    "role": "Руководство",
+    "About": ""
+  }
 ]
