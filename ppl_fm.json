@@ -14,5 +14,12 @@
     "Country": "",
     "role": "Сборщик",
     "About": ""
+  },
+  {
+    "name": "Lineсhek",
+    "age": "",
+    "Gender": "",
+    "role": "Глава",
+    "About": ""
   }
 ]
