@@ -1,18 +1,60 @@
 [
-{
+  {
     "nickname": "test2",
     "age": "",
     "Gender": "",
     "Country": "",
     "role": "Редстоунер",
     "About": ""
-},
-{
+  },
+  {
     "name": "test3",
     "age": "",
     "Gender": "",
     "Country": "",
     "role": "Сборщик",
     "About": ""
-}
+  },
+  {
+    "name": "Koz3R0G",
+    "age": "",
+    "Gender": "Мужик",
+    "role": "Глава",
+    "About": ""
+  },
+  {
+    "name": "iRom_",
+    "age": "",
+    "Gender": "Мужик",
+    "role": "Руководство",
+    "About": ""
+  },
+  {
+    "name": "9kuo",
+    "age": "",
+    "Gender": "Мужик",
+    "role": "Билдер",
+    "About": ""
+  },
+  {
+    "name": "folkiri",
+    "age": "",
+    "Gender": "Мужик",
+    "role": "Билдер",
+    "About": ""
+  },
+  {
+    "name": "kovallskyi",
+    "age": "",
+    "Gender": "Женщина",
+    "role": "Билдер",
+    "About": ""
+  },
+  {
+    "name": "shuba_a",
+    "age": "",
+    "Gender": "Мужик",
+    "role": "Участник",
+    "About": ""
+  }
 ]
