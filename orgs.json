@@ -30,6 +30,12 @@
       "file": "kd.json",
       "name": "Кошкин Дом",
       "color": "#3edf12"
+    },
+    {
+      "id": "yaderka",
+      "file": "yaderka.json",
+      "name": "Yaderka INC",
+      "color": "#1f8b4c"
     }
   ]
 }
